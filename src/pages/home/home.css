@@ -1,0 +1,6 @@
+.bodyError{
+    color: red;
+    font-size: 16px;
+    margin-top: 10px;
+    display: block !important;
+}
